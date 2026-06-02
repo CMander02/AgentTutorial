@@ -1,0 +1,95 @@
+site_name: Agent 新手教程
+site_description: 面向完全新手的 Agent 入门、选型、Coding CLI、Hermes 和知识库实战教程
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换到浅色模式
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - 首页: index.md
+  - 1. 从零理解 Agent:
+      - agent/index.md
+      - Agent 是什么: agent/what-is-agent.md
+      - Agent 形态演化: agent/forms.md
+      - 当前两类热门形态: agent/current-mainstream.md
+  - 2. 如何选择和购买 Agent:
+      - choose/index.md
+      - 选型维度: choose/criteria.md
+      - 如何订阅美国 AI: choose/how-to-buy-us-services.md
+  - 3. Coding CLI 入门：以 Claude Code 为例:
+      - coding-cli/index.md
+      - 本地安装 Claude Code: coding-cli/install.md
+      - 第一次交互和提问方式: coding-cli/interaction.md
+      - 管理 CLAUDE.md / AGENTS.md: coding-cli/project-memory.md
+      - 使用 /plan、/goal 和历史记录: coding-cli/project-progress.md
+      - 常用 Skill 与使用思维: coding-cli/skills-thinking.md
+      - MCP 和 Skill 是什么: coding-cli/mcp-and-skills.md
+      - 安装常用 MCP 和 Skill: coding-cli/install-extensions.md
+  - 4. 类龙虾应用与 Hermes:
+      - hermes/index.md
+      - 龙虾是什么: hermes/what-is-lobster.md
+      - 类龙虾应用怎么用: hermes/usage.md
+      - 在云服务器部署 Hermes: hermes/deploy.md
+      - 接入 QQ / 微信 / 飞书 Bot: hermes/bots.md
+      - 配置定时任务: hermes/schedules.md
+  - 5. 实战一：本地知识库管理:
+      - practice-obsidian/index.md
+      - 目标和架构: practice-obsidian/architecture.md
+      - Obsidian vault 设计: practice-obsidian/vault-design.md
+      - 知识库接入方式: practice-obsidian/access.md
+      - 知识管理 Skill 设计: practice-obsidian/knowledge-skill.md
+      - 完整工作流: practice-obsidian/workflow.md
+  - 6. 实战二：自动知识摄取:
+      - practice-ingestion/index.md
+      - Hermes + 知识库整体架构: practice-ingestion/architecture.md
+      - 互联网内容摄取: practice-ingestion/web-ingestion.md
+      - 手动内容摄取: practice-ingestion/manual-ingestion.md
+      - 总结、分类、入库规则: practice-ingestion/organize.md
+      - 知识摄入 Skill 设计: practice-ingestion/ingestion-skill.md
+      - 定时摄取和回顾: practice-ingestion/schedule.md
+  - FAQ: faq.md

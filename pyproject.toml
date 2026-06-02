@@ -1,0 +1,10 @@
+[project]
+name = "agenttutorial"
+version = "0.1.0"
+description = "Beginner-friendly Agent tutorial with Claude Code, Hermes, and knowledge workflows"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.7.6",
+]
