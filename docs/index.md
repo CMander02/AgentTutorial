@@ -13,7 +13,7 @@ icon: material/home-outline
 
 ## 学习路线
 
-1. [从头了解 Agent](agent/index.md)： 什么是Agen？它和大模型 （LLM）由什么关系？Agent 是如何从 ReAct、workflow ，演化到如今（2026年）以 Coding CLI、self-improve agent 为主要形式的？
+1. [从头了解 Agent](agent/index.md)：什么是 Agent？它和大模型（LLM）有什么关系？Agent 是如何从 ReAct、workflow，演化到如今（2026年）以 Coding CLI、self-improve agent 为主要形式的？
 2. [如何选择和购买 Agent服务](choose/index.md)：根据自身需求和财力，选择合适的付费服务进行购买。
 3. [Coding CLI 入门](coding-cli/index.md)：本地安装 Claude Code，并跑通简单的向 Agent 提问、计划模式、进度管理、Skill 和 MCP。
 4. [类龙虾应用与 Hermes](hermes/index.md)：理解常驻式聊天 Agent、Bot 接入和定时任务。

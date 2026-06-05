@@ -4,7 +4,7 @@ icon: material/cart-outline
 
 # 如何选择和购买 Agent
 
-当下学习 Agent 最好的办法，其实是直接订阅一个 GPT Plus $20 / Claude Pro $20 的账号，然后直接问 Agent 提问并让它展示；
+当下学习 Agent 最好的办法，其实是直接订阅一个 GPT Plus $20 / Claude Pro $20 的账号，然后直接向 Agent 提问并让它展示；
 
 但是上来就花 $20 (约￥140）毕竟不是小钱，而且确实不是所有人都需要用到一个自主工作的个体。
 
