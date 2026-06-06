@@ -1,0 +1,18 @@
+{
+    "name": "agenttutorial",
+    "version": "0.1.0",
+    "description": "Prettier tooling for the Agent tutorial site",
+    "scripts": {
+        "check": "prettier . --check",
+        "fix": "prettier . --write"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CMander02/AgentTutorial.git"
+    },
+    "license": "CC-BY-SA-4.0",
+    "devDependencies": {
+        "markdownlint": "^0.38.0",
+        "prettier": "^3.6.2"
+    }
+}

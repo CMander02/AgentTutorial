@@ -9,7 +9,7 @@ icon: material/home-outline
 本教程的主线有两条：
 
 - **Coding CLI**：以 Claude Code 为例，教你如何在本地项目里对话、计划、修改文件、管理上下文。
-- **龙虾类应用  （OpenClaw / Hermes）**：把 Agent 放进聊天入口和定时任务里，用来做长期知识摄取和提醒。
+- **龙虾类应用 （OpenClaw / Hermes）**：把 Agent 放进聊天入口和定时任务里，用来做长期知识摄取和提醒。
 
 ## 学习路线
 

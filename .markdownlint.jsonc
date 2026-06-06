@@ -1,0 +1,7 @@
+{
+    "MD046": false, // Always use code blocks for commands and outputs.
+    "MD014": false, // Command examples may keep shell prompts when needed.
+    "MD033": false, // Allow inline HTML for MkDocs Material edge cases.
+    "MD053": false, // False positive for footnotes and generated anchors.
+    "extends": "node_modules/markdownlint/style/prettier.json",
+}
