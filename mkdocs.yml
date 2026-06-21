@@ -31,6 +31,9 @@ theme:
         icon: material/weather-night
         name: 切换到浅色模式
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
   - attr_list

@@ -1,0 +1,10 @@
+/* Keep ordered-list markers inside the readable text gutter on narrow views. */
+.md-typeset ol:not([hidden]) {
+    margin-left: 0;
+    padding-left: 1.75rem;
+}
+
+.md-typeset ol:not([hidden]) > li {
+    margin-left: 0;
+    padding-left: 0.25rem;
+}
