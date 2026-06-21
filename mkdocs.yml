@@ -60,9 +60,6 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
-  - 00. 写作启发:
-      - 00-inspiration/00-index.md
-      - Linux 101 示例链接: 98-linux101-compat/00-index.md
   - 01. 从零理解 Agent:
       - 01-agent/00-index.md
       - Agent 是什么: 01-agent/01-what-is-agent.md

@@ -50,26 +50,11 @@ Agent 核心可以是：
 
 4.  一只猪：猪脑+猪身 = 猪Agent ，在猪圈中运行，因此猪圈里的猪也是一种 Agent；相反地，真空中的球形猪不是 Agent。
 
-![](./images/pig.webp)
+![猪 Agent 示例图](./images/pig.webp){: .centered-image }
 
 一个典型的 Agent 结构和流程如下图。
 
-```mermaid
-flowchart LR
-    E[环境 Environment]
-
-    subgraph Agent
-        S[感受器 Sensors]
-        C[Agent 核心<br/>推理 / 规划 / 决策]
-        A[作用器 / 执行器<br/>Effectors / Actuators]
-    end
-
-    E -->|1. 观察 / Percepts| S
-    S -->|2. 输入状态 / Observations| C
-    C -->|3. 行动指令 / Actions| A
-    A -->|4. 改变环境 / Effects| E
-    E -->|5. 新环境状态 / Feedback| S
-```
+![Agent 执行流程](./images/agent-flow.svg){: .centered-image .flow-diagram }
 
 ## 2. 注意
 
