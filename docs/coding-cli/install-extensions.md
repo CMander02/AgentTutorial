@@ -14,13 +14,13 @@ icon: material/download-box-outline
 
 ## 常见 MCP 类型
 
-| 类型 | 用途 |
-| --- | --- |
-| 文件系统 | 读写指定目录 |
-| 浏览器 | 打开网页、截图、点击 |
-| 知识库 | 读写 Obsidian、Notion、Zotero |
-| 协作工具 | 飞书、Slack、GitHub |
-| 数据工具 | 数据库、表格、BI |
+| 类型     | 用途                          |
+| -------- | ----------------------------- |
+| 文件系统 | 读写指定目录                  |
+| 浏览器   | 打开网页、截图、点击          |
+| 知识库   | 读写 Obsidian、Notion、Zotero |
+| 协作工具 | 飞书、Slack、GitHub           |
+| 数据工具 | 数据库、表格、BI              |
 
 ## Windows 注意事项
 

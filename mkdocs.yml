@@ -30,6 +30,9 @@ theme:
         icon: material/weather-night
         name: 切换到浅色模式
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -52,15 +55,15 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
-  - 1. 从零理解 Agent:
-      - agent/index.md
-      - Agent 是什么: agent/what-is-agent.md
-      - Agent 形态演化: agent/forms.md
-      - 当前两类热门形态: agent/current-mainstream.md
-  - 2. 如何选择和购买 Agent:
-      - choose/index.md
-      - 选型维度: choose/criteria.md
-      - 如何订阅美国 AI: choose/how-to-buy-us-services.md
+  - 01. 从零理解 Agent:
+      - 01-agent/00-index.md
+      - Agent 是什么: 01-agent/01-what-is-agent.md
+      - Agent 形态演化: 01-agent/02-forms.md
+      - 当前主流入口: 01-agent/03-current-mainstream.md
+  - 02. 如何选择 Agent:
+      - 02-choose/00-index.md
+      - 选型判断标准: 02-choose/01-criteria.md
+      - 购买前验证清单: 02-choose/02-how-to-buy-us-services.md
   - 3. Coding CLI 入门：以 Claude Code 为例:
       - coding-cli/index.md
       - 本地安装 Claude Code: coding-cli/install.md

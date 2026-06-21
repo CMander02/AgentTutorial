@@ -15,8 +15,8 @@ Agent 到底是什么？它和普通聊天机器人的区别是什么？
 
 ## 学习顺序
 
-1. [Agent 是什么](what-is-agent.md)
-2. [Agent 形态演化](forms.md)
-3. [当前两类热门形态](current-mainstream.md)
+1. [Agent 是什么](01-what-is-agent.md)
+2. [Agent 形态演化](02-forms.md)
+3. [当前两类热门形态](03-current-mainstream.md)
 
-下一章会进入选型和购买：[如何选择和购买 Agent](../choose/index.md)。
+下一章会进入选型和购买：[如何选择和购买 Agent](../02-choose/00-index.md)。

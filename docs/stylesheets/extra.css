@@ -1,0 +1,22 @@
+/* Keep ordered-list markers inside the readable text gutter on narrow views. */
+.md-typeset ol:not([hidden]) {
+    list-style-type: decimal;
+    margin-left: 0;
+    padding-left: 1.75rem;
+}
+
+.md-typeset ol:not([hidden]) > li {
+    display: list-item;
+    list-style-type: decimal;
+    margin-left: 0;
+    padding-left: 0.25rem;
+}
+
+.md-typeset img.centered-image {
+    display: block;
+    margin-inline: auto;
+}
+
+.md-typeset img.flow-diagram {
+    width: 80%;
+}

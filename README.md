@@ -25,8 +25,8 @@ uv run mkdocs build --strict
 
 ## 目录
 
-- `docs/agent/`：Agent 基础概念
-- `docs/choose/`：选型和订阅
+- `docs/01-agent/`：Agent 基础概念
+- `docs/02-choose/`：选型和订阅
 - `docs/coding-cli/`：Claude Code / Coding CLI 入门
 - `docs/hermes/`：类龙虾应用与 Hermes
 - `docs/practice-obsidian/`：本地知识库实战
