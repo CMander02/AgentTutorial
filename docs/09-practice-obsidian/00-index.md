@@ -107,4 +107,4 @@ git diff
 
 ## 下一步 {#next}
 
-到这里，你已经完成从概念、选型、Coding CLI 到 Skill 和 Obsidian 的入门闭环。遇到具体问题时，可以回到 [FAQ](../faq.md)。
+到这里，你已经完成从概念、选型、Coding CLI 到 Skill 和 Obsidian 的入门闭环。遇到具体问题时，可以回到 [FAQ](../99-faq.md)。

@@ -83,4 +83,4 @@ git status --short
 
 ## 下一步 {#next}
 
-下一章：[Prompt 与计划](../prompt-plan/index.md)。
+下一章：[Prompt 与计划](../05-prompt-plan/00-index.md)。

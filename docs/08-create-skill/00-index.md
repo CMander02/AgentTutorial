@@ -79,7 +79,7 @@ uv run mkdocs build --strict
 再用一个小任务试触发：
 
 ```text
-请按 linux101-writing 规则检查 docs/pre-agent/index.md，只给问题清单，先不要修改文件。
+请按 linux101-writing 规则检查 docs/03-pre-agent/00-index.md，只给问题清单，先不要修改文件。
 ```
 
 ## 常见误区 {#pitfalls}
@@ -94,4 +94,4 @@ uv run mkdocs build --strict
 
 ## 下一步 {#next}
 
-下一章：[Obsidian 实战](../practice-obsidian/index.md)。
+下一章：[Obsidian 实战](../09-practice-obsidian/00-index.md)。

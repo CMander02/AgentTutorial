@@ -28,8 +28,9 @@ npm run fix
 
 ## 目录
 
-- `docs/inspiration/`：第 0 章，写作启发和规范说明。
-- `docs/agent/`：第 1 章，Agent 基础概念。
-- `docs/choose/`：第 2 章，选型判断和购买前验证。
-- `docs/pre-agent/` 到 `docs/create-skill/`：第 3 到第 8 章，Coding CLI 工作流。
-- `docs/practice-obsidian/`：第 9 章，Obsidian 实战入口。
+- `docs/00-inspiration/`：第 0 章，写作启发和规范说明。
+- `docs/01-agent/`：第 1 章，Agent 基础概念。
+- `docs/02-choose/`：第 2 章，选型判断和购买前验证。
+- `docs/03-pre-agent/` 到 `docs/08-create-skill/`：第 3 到第 8 章，Coding CLI 工作流。
+- `docs/09-practice-obsidian/`：第 9 章，Obsidian 实战入口。
+- `docs/01-agent/images/`：第 1 章图片资源。

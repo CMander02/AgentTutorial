@@ -100,4 +100,4 @@ uv run mkdocs build --strict
 
 ## 下一步 {#next}
 
-下一章：[从零理解 Agent](../agent/index.md)。
+下一章：[从零理解 Agent](../01-agent/00-index.md)。

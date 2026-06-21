@@ -10,4 +10,4 @@ Linux 101 的原始章节位于 [Linux 101 网站](https://101.lug.ustc.edu.cn/C
 
 ## 下一步 {#next}
 
-返回：[写作启发](../inspiration/index.md)。
+返回：[写作启发](../00-inspiration/00-index.md)。

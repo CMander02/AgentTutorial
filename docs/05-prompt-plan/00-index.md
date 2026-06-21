@@ -32,8 +32,8 @@ icon: material/clipboard-text-outline
 可以使用这个模板：
 
 ```text
-目标：把 docs/choose/ 改成稳定的选型判断，不写短期价格推荐。
-范围：只修改 docs/choose/ 和 README 中相关链接。
+目标：把 docs/02-choose/ 改成稳定的选型判断，不写短期价格推荐。
+范围：只修改 docs/02-choose/ 和 README 中相关链接。
 背景：教程面向新手，产品价格和额度经常变化。
 限制：不要改 mkdocs.yml，不要删除文件。
 验收：运行 uv run mkdocs build --strict 通过。
@@ -80,7 +80,7 @@ icon: material/clipboard-text-outline
 明确请求：
 
 ```text
-请只阅读 docs/pre-agent/index.md，指出对新手不清楚的地方。先给 3 条修改建议，不要改文件。
+请只阅读 docs/03-pre-agent/00-index.md，指出对新手不清楚的地方。先给 3 条修改建议，不要改文件。
 ```
 
 ## 常见误区 {#pitfalls}
@@ -95,4 +95,4 @@ icon: material/clipboard-text-outline
 
 ## 下一步 {#next}
 
-下一章：[长任务与目标](../goal-running/index.md)。
+下一章：[长任务与目标](../06-goal-running/00-index.md)。

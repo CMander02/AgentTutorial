@@ -86,4 +86,4 @@ icon: material/flag-checkered
 
 ## 下一步 {#next}
 
-下一章：[Skill 与 MCP](../skill-mcp/index.md)。
+下一章：[Skill 与 MCP](../07-skill-mcp/00-index.md)。

@@ -57,29 +57,30 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
-  - 0. 写作启发:
-      - inspiration/index.md
-  - 1. 从零理解 Agent:
-      - agent/index.md
-      - Agent 是什么: agent/what-is-agent.md
-      - Agent 形态演化: agent/forms.md
-      - 当前主流入口: agent/current-mainstream.md
-  - 2. 如何选择 Agent:
-      - choose/index.md
-      - 选型判断标准: choose/criteria.md
-      - 购买前验证清单: choose/how-to-buy-us-services.md
-  - 3. 开始之前:
-      - pre-agent/index.md
-  - 4. 第一次任务:
-      - first-task/index.md
-  - 5. Prompt 与计划:
-      - prompt-plan/index.md
-  - 6. 长任务与目标:
-      - goal-running/index.md
-  - 7. Skill 与 MCP:
-      - skill-mcp/index.md
-  - 8. 创建自己的 Skill:
-      - create-skill/index.md
-  - 9. Obsidian 实战:
-      - practice-obsidian/index.md
-  - FAQ: faq.md
+  - 00. 写作启发:
+      - 00-inspiration/00-index.md
+      - Linux 101 示例链接: 98-linux101-compat/00-index.md
+  - 01. 从零理解 Agent:
+      - 01-agent/00-index.md
+      - Agent 是什么: 01-agent/01-what-is-agent.md
+      - Agent 形态演化: 01-agent/02-forms.md
+      - 当前主流入口: 01-agent/03-current-mainstream.md
+  - 02. 如何选择 Agent:
+      - 02-choose/00-index.md
+      - 选型判断标准: 02-choose/01-criteria.md
+      - 购买前验证清单: 02-choose/02-how-to-buy-us-services.md
+  - 03. 开始之前:
+      - 03-pre-agent/00-index.md
+  - 04. 第一次任务:
+      - 04-first-task/00-index.md
+  - 05. Prompt 与计划:
+      - 05-prompt-plan/00-index.md
+  - 06. 长任务与目标:
+      - 06-goal-running/00-index.md
+  - 07. Skill 与 MCP:
+      - 07-skill-mcp/00-index.md
+  - 08. 创建自己的 Skill:
+      - 08-create-skill/00-index.md
+  - 09. Obsidian 实战:
+      - 09-practice-obsidian/00-index.md
+  - 99. FAQ: 99-faq.md

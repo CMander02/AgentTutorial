@@ -22,7 +22,7 @@ icon: material/help-circle-outline
 
 ??? question "教程能给固定购买推荐吗"
 
-    不建议依赖固定推荐。价格、额度、地区和产品功能变化很快，购买前应按 [购买前验证清单](choose/how-to-buy-us-services.md) 重新核对官方信息。
+    不建议依赖固定推荐。价格、额度、地区和产品功能变化很快，购买前应按 [购买前验证清单](02-choose/02-how-to-buy-us-services.md) 重新核对官方信息。
 
 ??? question "免费工具够用吗"
 

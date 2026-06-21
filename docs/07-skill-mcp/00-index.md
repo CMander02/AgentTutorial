@@ -77,4 +77,4 @@ MCP 是一种工具接口。它让 Agent 能调用外部能力，例如读取数
 
 ## 下一步 {#next}
 
-下一章：[创建自己的 Skill](../create-skill/index.md)。
+下一章：[创建自己的 Skill](../08-create-skill/00-index.md)。
